@@ -47,7 +47,7 @@ Make sure you have:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/azure-devops-project-terraform.git
+git clone https://github.com/Schorakbi/azure-devops-project-terraform.git
 cd azure-devops-project-terraform
 
 # Optionally set environment variables
